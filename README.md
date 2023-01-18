@@ -6,6 +6,8 @@ This is a completed assignment for React front-end position. It was about using 
 
 To have a fast overview, please open terminal in the project's root and simply run
 
+`npm install`
+and then
 `npm start`
 
 **Note: if, after server started, your browser didn't open, you can manually open http://localhost:3000**
